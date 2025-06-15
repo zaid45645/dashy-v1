@@ -12,12 +12,12 @@ So ive always wanted to make something, which I could keep on my desk and feel p
 **Total time spent: 1h**
 
 # June 15: Worked on BOM and Played Around With The Code and also The Case!
-So we have got our base items ready, but we also do need to include other parts like wires and interfaces and stuff in the BOM, so thats what I worked with the BOM for today, I also took a look at the code and tried understanding it so I can use it to display the things I want, I played around with the code, by making it make circles and rectangles and also to print out the text "Zaid is Awesome" on the screen. Even though I havent gotten the screen, the code still feels like it will execute as it is simple to understand and also easy to write!. I also looked at tutorials on how to use the Arduino IDE and how I should install the necessary libraries and also ports and stuff. It will be much easier to work with it if we had the screen but we dont so we have to handle it the zaid way!.
+So we have got our base items ready, but we also do need to include other parts like wires and interfaces and stuff in the BOM, so thats what I worked with the BOM for today, I also took a look at the code and tried understanding it so I can use it to display the things I want, I played around with the code, by making it make circles and rectangles and also to print out the text "Zaid is Awesome" on the screen. Even though I havent gotten the screen, the code still feels like it will execute as it is simple to understand and also easy to write!. I also looked at tutorials on how to use the Arduino IDE and how I should install the necessary libraries and also ports and stuff. It will be much easier to work with it if we had the screen but we dont so we have to handle it the zaid way!. Thats all for today!
 
 ![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad6badf6244c7f9268fbf4542cbf2287bb64da23_image.png)
 **Total time spent: 2h**
 
-Ok so I worked on the case of the whole thing, and till now it looks great, I followed the hackpad cad guide as thats the best guide Iv'e ever followed about fusion 360, as I know nothing about it. Im aiming for a whole hackpad case design and I do think this will trurn out pretty good, I am a little disappointed about the whole size but this will work and having a small size would make it even easier and it would turn out cute!. Thats all for today!
+Ok so I worked on the case of the whole thing, and till now it looks great, I followed the hackpad cad guide as thats the best guide Iv'e ever followed about fusion 360, as I know nothing about it. Im aiming for a whole hackpad case design and I do think this will trurn out pretty good, I am a little disappointed about the whole size but this will work and having a small size would make it even easier and it would turn out cute!.
 
 ![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7263c40f718b2ca27f27bc29f0e206de62a4442f_image.png)
 **Total time spent: 1h**
