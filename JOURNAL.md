@@ -1,7 +1,7 @@
 ---
 Title: "Dashy! V1"
 Author: "Mohammed Zaid"
-Description: "It is a E-INK Desk Accessory!"
+Description: "It is an E-INK Desk Accessory!"
 Created_at: "10-6-2025"
 ---
 
