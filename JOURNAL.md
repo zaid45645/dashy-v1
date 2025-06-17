@@ -21,3 +21,9 @@ Ok so I worked on the case of the whole thing, and till now it looks great, I fo
 
 ![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7263c40f718b2ca27f27bc29f0e206de62a4442f_image.png)
 **Total time spent: 1h**
+
+# June 17: Worked on Case!
+So we got ourselves something for the case, like it does look pretty good, but I am skeptical that it wont fit everything including the arduino as like the width of the case seems to small and if I make it even more it would just look too thick. and also the screw holes dont look so well, so I have to ask in the channel if it looks right and if it could fit the screen and the arduino. Thats all for now!
+
+![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b10c88aa06d7bc82a5965b7c5cc8c3c399d53afd_image.png)
+**Total time spent: 30mins**
